@@ -1,2 +1,2 @@
 # trialsample
-Just a sample I was trying to push
+Nothing much, was just learning to push code using git
